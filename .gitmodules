@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WeightCraft"]
+	path = WeightCraft
+	url = https://github.com/cran/WeightCraft
 [submodule "corpmetrics"]
 	path = corpmetrics
 	url = https://github.com/cran/corpmetrics
